@@ -1,2 +1,2 @@
 # Nowy opis projektu
-## Powrót Kubicy do F1
+## Opis nowego projektu którego jeszcze nia ma.
